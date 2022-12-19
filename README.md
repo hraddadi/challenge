@@ -1,4 +1,5 @@
 # Challenge
-This is a great challenge that I am going to post here and I think I did learn a lot from it.
+'''This is going to be a significant challenge.''
+'''Well, this challenge has three areas to measure my skills. The first one is about Data Science technical skills, and the second and the third challenges are about "Technical writing" and personal questions that will help me get to know myself.
 
-### ***Well, this challenge has 3 areas to major my skills. the first one is about my Data Science technical skills and the second and the third challenges are about my "Technical writing" and personal question that will help me to improve the balance between my personal life and my career.***
+### - Data Science technical skills
