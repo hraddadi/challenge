@@ -6,7 +6,7 @@
 '''I am using [Ubuntu OS 20.04](https://ubuntu.com/).
 '''So, now we are going to create a workspace for our machine learning project.
 '''Go to the terminal and type the following commands:''
-```python
+```sh
 $ export ML_PATH= "$HOME/ml"      #you can change the path if you prefer
 $ mkdir -p $ML_PATH
 ```
