@@ -2,7 +2,7 @@
 '''This is going to be a significant challenge.''
 '''Well, this challenge has three areas to measure my skills. The first one is about Data Science technical skills, and the second and the third challenges are about "Technical writing" and personal questions that will help me get to know myself.
 
-### 1. Data Science technical skills:
+### 1. Data Science Technical Skills:
 '''I am using [Ubuntu OS 20.04](https://ubuntu.com/).
 '''So, we will create a workspace for our machine learning project.
 '''Go to the terminal and type the following commands:''
@@ -32,14 +32,23 @@ Now you can install all the required modules and their dependencies using this s
 ```sh
 $ python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 ```
-Now install requirements.txt
+Now install [requirements.txt](https://github.com/hraddadi/challenge/blob/main/technical_skills/requirements.txt)
 ```sah
 $ pip install -r requirements.txt
 ```
 Now the environment is ready.
 
-- [Classify facial expressions dataset](https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset)
+- [Dataset](https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset)
 
 - [The Final Model](https://mega.nz/file/6d91BA6Q#ifD0xpkkU2CrZnuXLLqGHHVP_zoXAMIJ0tE8TufDecc)
 
-- [The solution](https://github.com/hraddadi/challenge/blob/main/technical_skills/facial-expression.ipynb)
+- [The Solution](https://github.com/hraddadi/challenge/blob/main/technical_skills/facial-expression.ipynb)
+
+![alt text](https://github.com/hraddadi/challenge/blob/main/technical_skills/machine_test.png)
+
+### 2.Technical Writing and Design
+[summary for An Introduction to Convolutional Neural Networks](https://github.com/hraddadi/challenge/blob/main/Summary%20for%20a%20research%20paper.pdf)
+[The Research Paper](https://github.com/hraddadi/challenge/blob/main/An%20Introduction%20to%20Convolutional%20Neural%20Networks.pdf)
+
+### 3.Personal Questions
+[PDF File](https://github.com/hraddadi/challenge/blob/main/Personal.pdf)
