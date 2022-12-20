@@ -10,3 +10,31 @@
 $ export ML_PATH= "$HOME/ml"      #you can change the path if you prefer
 $ mkdir -p $ML_PATH
 ```
+```sh
+$ python3 -m pip install --user -U pip
+```
+Creating an isolated environment
+install virtualenv by running the following pip command
+```sh
+$ python3 -m pip install --user -U virtualenv
+```
+Now you can create an isolated Python environment by typing this:
+```sh
+$ cd $ML_PATH
+$ virtualenv my_env
+```
+Now every time you want to activate this environment, just open a terminal and type the following:
+```sh
+$ cd $ML_PATH
+$ source my_env/bin/activate
+```
+Now you can install all the required modules and their dependencies using this simple pip command:
+```sh
+$ python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+```
+Now install requirements.txt
+```sah
+$ pip install -r requirements.txt
+```
+
+Now you enviroment is ready.
