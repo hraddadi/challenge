@@ -4,7 +4,7 @@
 
 ### 1. Data Science technical skills:
 '''I am using [Ubuntu OS 20.04](https://ubuntu.com/).
-'''So, now we are going to create a workspace for our machine learning project.
+'''So, we will create a workspace for our machine learning project.
 '''Go to the terminal and type the following commands:''
 ```sh
 $ export ML_PATH= "$HOME/ml"      #you can change the path if you prefer
@@ -18,7 +18,7 @@ install virtualenv by running the following pip command
 ```sh
 $ python3 -m pip install --user -U virtualenv
 ```
-Now you can create an isolated Python environment by typing this:
+Now we can create an isolated Python environment by typing this:
 ```sh
 $ cd $ML_PATH
 $ virtualenv my_env
@@ -36,5 +36,8 @@ Now install requirements.txt
 ```sah
 $ pip install -r requirements.txt
 ```
+Now the environment is ready.
 
-Now you enviroment is ready.
+[Classify facial expressions dataset](https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset)
+[The Final Model](https://mega.nz/file/6d91BA6Q#ifD0xpkkU2CrZnuXLLqGHHVP_zoXAMIJ0tE8TufDecc)
+[The solution]()
