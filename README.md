@@ -38,8 +38,8 @@ $ pip install -r requirements.txt
 ```
 Now the environment is ready.
 
-'' *[Classify facial expressions dataset](https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset)
+- [Classify facial expressions dataset](https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset)
 
-[The Final Model](https://mega.nz/file/6d91BA6Q#ifD0xpkkU2CrZnuXLLqGHHVP_zoXAMIJ0tE8TufDecc)
+- [The Final Model](https://mega.nz/file/6d91BA6Q#ifD0xpkkU2CrZnuXLLqGHHVP_zoXAMIJ0tE8TufDecc)
 
-[The solution](https://github.com/hraddadi/challenge/blob/main/technical_skills/facial-expression.ipynb)
+- [The solution](https://github.com/hraddadi/challenge/blob/main/technical_skills/facial-expression.ipynb)
