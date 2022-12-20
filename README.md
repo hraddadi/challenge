@@ -48,6 +48,7 @@ Now the environment is ready.
 
 ### 2.Technical Writing and Design
 [summary for An Introduction to Convolutional Neural Networks](https://github.com/hraddadi/challenge/blob/main/Summary%20for%20a%20research%20paper.pdf)
+
 [The Research Paper](https://github.com/hraddadi/challenge/blob/main/An%20Introduction%20to%20Convolutional%20Neural%20Networks.pdf)
 
 ### 3.Personal Questions
